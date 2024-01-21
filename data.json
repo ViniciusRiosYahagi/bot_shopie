@@ -1,0 +1,124 @@
+{
+  "philosophers": [
+    {
+      "id": 1,
+      "name": "Socrates",
+      "last_name": "Of Athens",
+      "phrases": [
+        "I only know that I know nothing.",
+        "An unexamined life is not worth living.",
+        "Know thyself.",
+        "The only true wisdom is in knowing you know nothing.",
+        "Death may be the greatest of all human blessings."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Plato",
+      "last_name": "",
+      "phrases": [
+        "The most valuable of all talents is that of never using two words when one will do.",
+        "The measure of a man is what he does with power.",
+        "Love is a serious mental disease.",
+        "Courage is knowing what not to fear.",
+        "Wise men speak because they have something to say; fools because they have to say something."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Aristotle",
+      "last_name": "",
+      "phrases": [
+        "Happiness depends upon ourselves.",
+        "Excellence is an art won by training and habituation.",
+        "Knowing yourself is the beginning of all wisdom.",
+        "Pleasure in the job puts perfection in the work.",
+        "It is the mark of an educated mind to be able to entertain a thought without accepting it."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Immanuel",
+      "last_name": "Kant",
+      "phrases": [
+        "Enlightenment is man's emergence from his self-imposed immaturity.",
+        "Act in such a way that you treat humanity, whether in your own person or in the person of any other, never merely as a means to an end but always at the same time as an end.",
+        "Science is organized knowledge. Wisdom is organized life.",
+        "Two things awe me most, the starry sky above me and the moral law within me.",
+        "We are not rich by what we possess but by what we can do without."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Rene",
+      "last_name": "Descartes",
+      "phrases": [
+        "I think, therefore I am.",
+        "It is not enough to possess a good mind; the most important thing is to apply it correctly.",
+        "Except our own thoughts, there is nothing absolutely in our power.",
+        "Cogito, ergo sum. (I think, therefore I am.)",
+        "Divide each difficulty into as many parts as is feasible and necessary to resolve it."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Friedrich",
+      "last_name": "Nietzsche",
+      "phrases": [
+        "That which does not kill us makes us stronger.",
+        "God is dead.",
+        "The individual has always had to struggle to keep from being overwhelmed by the tribe.",
+        "He who has a why to live can bear almost any how.",
+        "Without music, life would be a mistake."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Jean Paul",
+      "last_name": "Sartre",
+      "phrases": [
+        "Existence precedes essence.",
+        "We are condemned to be free.",
+        "Hell is other people.",
+        "Man is condemned to be free; because once thrown into the world, he is responsible for everything he does.",
+        "Freedom is what you do with what's been done to you."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "John",
+      "last_name": "Locke",
+      "phrases": [
+        "All mankind... being all equal and independent, no one ought to harm another in his life, health, liberty or possessions.",
+        "The only defense against the world is a thorough knowledge of it.",
+        "New opinions are always suspected, and usually opposed, without any other reason but because they are not already common.",
+        "The only way to comprehend what mathematicians mean by Infinity is to contemplate the extent of human stupidity.",
+        "To love truth for truth's sake is the principal part of human perfection in this world, and the seed-plot of all other virtues."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "David",
+      "last_name": "Hume",
+      "phrases": [
+        "Reason is, and ought only to be the slave of the passions.",
+        "The life of man is of no greater importance to the universe than that of an oyster.",
+        "Generally speaking, the errors in religion are dangerous; those in philosophy only ridiculous.",
+        "Beauty is no quality in things themselves: It exists merely in the mind which contemplates them.",
+        "The corruption of the best things gives rise to the worst."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Karl",
+      "last_name": "Marx",
+      "phrases": [
+        "The history of all previous societies has been the history of class struggles.",
+        "Religion is the sigh of the oppressed creature, the heart of a heartless world, and the soul of soulless conditions. It is the opium of the people.",
+        "The philosophers have only interpreted the world in various ways; the point is to change it.",
+        "The oppressed are allowed once every few years to decide which particular representatives of the oppressing class are to represent and repress them.",
+        "The human being is in the most literal sense a political animal, not merely a gregarious animal, but an animal which can individuate itself only in the midst of society."
+      ]
+    }
+  ]
+}

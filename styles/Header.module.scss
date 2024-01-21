@@ -1,0 +1,49 @@
+@import "styles";
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: $primary-color;
+    padding: 1em;
+    height: 70px;
+    border-bottom: 5px solid $secondary-color;
+    box-shadow: 0px 5px 15px  $secondary-color;
+
+    h1 {
+        font-size: 36px;
+        font-weight: bold;
+        color: $secondary-color;
+        span {
+            color: $secondary-color;
+        }
+    }
+
+    div {
+
+        .icon {
+            margin-left: .3em;
+            font-size: 2em;
+            color: $secondary-color;
+            cursor: pointer;
+        }
+
+        a {
+            font-size: 1.3em;
+            font-weight: bold;
+            text-decoration: none;
+            color: $secondary-color;
+            margin-left: 15px;
+            transition: 0.5s;
+            border-bottom: 1px solid transparent;
+
+            &:hover {
+            border-color: $secondary-color;
+            }
+        }
+    }
+}
+
+a {
+    text-decoration: none;
+}
