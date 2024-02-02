@@ -24,7 +24,7 @@ export default function About() {
                     </a>
                     </h4>
                     <h4>Email: viniciusrios.x3@gmail.com</h4>
-                    <h1>technologies</h1>
+                    <h1>Technologies</h1>
                     <h4>
                     <Link to="https://react.dev" target="_blank">React</Link>
                     <Link to="https://sass-lang.com" target="_blank">Sass</Link>
