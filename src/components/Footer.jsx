@@ -7,7 +7,7 @@ export default function Footer() {
             href="https://github.com/ViniciusRiosYahagi" 
             target="_blank" 
             rel="noreferrer"
-            >Vinicius Rios</a></h5>
+            >Vinicius Yahagi Rios</a></h5>
         </footer>
     )
 }
