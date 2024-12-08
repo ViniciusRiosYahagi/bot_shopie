@@ -16,7 +16,7 @@ export default function About() {
                     <h4>
                     Developed by:  
                     <a 
-                    href="https://www.linkedin.com/in/vinicius-rios-350647280/" 
+                    href="https://www.linkedin.com/in/vinicius-yahagi-rios-350647280/" 
                     target="_blank" 
                     rel="noreferrer"
                     >
