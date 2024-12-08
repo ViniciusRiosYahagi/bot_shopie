@@ -20,10 +20,10 @@ export default function About() {
                     target="_blank" 
                     rel="noreferrer"
                     >
-                     Vinicius Rios
+                     Vinicius Yahagi Rios
                     </a>
                     </h4>
-                    <h4>Email: viniciusrios.x3@gmail.com</h4>
+                    <h4>Email: ViniciusYahagiRios@hotmail.com</h4>
                     <h1>Technologies</h1>
                     <h4>
                     <Link to="https://react.dev" target="_blank">React</Link>
